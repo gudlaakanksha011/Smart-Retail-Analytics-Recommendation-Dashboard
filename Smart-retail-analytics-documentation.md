@@ -66,7 +66,7 @@ pip install pandas streamlit matplotlib
 
 ## 📊 STEP 2: Generate Inventory Dataset
 
-### File: `generate_inventory.py`
+### File: `generate_data.py`
 
 ```python id="invcode"
 # (same as your existing code)
@@ -75,7 +75,7 @@ pip install pandas streamlit matplotlib
 ### ▶️ Run
 
 ```bash id="runinv"
-python generate_inventory.py
+python generate_data.py
 ```
 
 ### ✅ Output
@@ -88,7 +88,7 @@ python generate_inventory.py
 
 ## 📊 STEP 3: Generate Sales Dataset
 
-### File: `generate_sales.py`
+### File: `sales_data.py`
 
 ```python id="salescode"
 # (same as your existing code)
@@ -97,7 +97,7 @@ python generate_inventory.py
 ### ▶️ Run
 
 ```bash id="runsales"
-python generate_sales.py
+python sales_data.py
 ```
 
 ---
