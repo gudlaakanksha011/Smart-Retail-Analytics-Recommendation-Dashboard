@@ -142,6 +142,7 @@ I built this project to apply data analytics concepts to real-world business pro
 
 * LinkedIn: https://www.linkedin.com/in/gudla-akanksha-data-analyst
 * GitHub: https://github.com/gudlaakanksha011
+* Email: gudlaakanksha011@gmail.com
 
 ---
 
