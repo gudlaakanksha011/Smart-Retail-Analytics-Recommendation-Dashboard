@@ -41,11 +41,8 @@ It combines **inventory monitoring**, **sales analytics**, and **business recomm
 ---
 
 ## 📸 Dashboard Preview
-
-<p align="center">
-  !(dashboard%20_%20overview.png)
-  <img src="images/inventory_alerts.png" width="45%" />
-</p>
+![Smart Retail Analytics Recommendation Dashboard](dashboard%20_%20overview.png)
+![Smart Retail Analytics Recommendation Dashboard]](inventory%20_%20alerts.png)
 
 <p align="center">
   <img src="images/sales_analysis.png" width="45%" />
