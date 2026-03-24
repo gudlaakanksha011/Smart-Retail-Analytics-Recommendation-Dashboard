@@ -53,7 +53,7 @@ It combines **inventory monitoring**, **sales analytics**, and **business recomm
 
 <p align="center">
   <img src="images/expiry_alerts.png" width="45%" />
-  <img src="images/recommendations.png" width="45%" />
+  <img src="images/recoomendations.png" width="45%" />
   <img src="images/discounts_on_about_to_expire_items.png" width="45%" />
 </p>
 
