@@ -46,16 +46,15 @@ It combines **inventory monitoring**, **sales analytics**, and **business recomm
   <img src="images/dashboard_overview.png" width="45%" />
   <img src="images/inventory_alerts.png" width="45%" />
 </p>
-
 <p align="center">
   <img src="images/sales_analysis.png" width="45%" />
-  <img src="images/monthly_analysis.png" width="45%" />
+  <img src="images/monthly_revenue.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="images/expiry alert.png" width="45%" />
-  <img src="images/recommendation.png" width="45%" />
-  <img src="images/discounts on about to expire items.png" width="45%" />
+  <img src="images/expiry_alerts.png" width="45%" />
+  <img src="images/recommendations.png" width="45%" />
+  <img src="images/discounts_on_about_to_expire_items.png" width="45%" />
 </p>
 
 ---
@@ -88,10 +87,10 @@ Retail-Analytics-Dashboard/
 │   ├── dashboard_overview.png
 │   ├── inventory_alerts.png
 │   ├── sales_analysis.png
-│   ├── discounts on about to expire items.png
-│   ├── recommendation.png
-│   └── monthly analysis.png
-│   └── expiry alert.png
+│   ├── discounts_on_about_to_expire_items.png
+│   ├── recommendations.png
+│   └── monthly_revenue.png
+│   └── expiry_alerts.png
 ├── requirements.txt
 └── README.md
 ```
