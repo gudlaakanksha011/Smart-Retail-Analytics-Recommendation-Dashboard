@@ -1,5 +1,7 @@
 # 🛍️ Smart Retail Analytics Dashboard
 
+🚀 Live Streamlit Dashboard (Run locally using instructions below)
+
 ## 📌 Overview
 
 This project is an end-to-end retail analytics system designed to help businesses manage inventory, analyze sales performance, and make data-driven decisions.
