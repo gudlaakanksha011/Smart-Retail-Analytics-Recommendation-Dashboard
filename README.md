@@ -43,7 +43,7 @@ It combines **inventory monitoring**, **sales analytics**, and **business recomm
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard_overview.png" width="45%" />
+  !(dashboard%20_%20overview.png)
   <img src="images/inventory_alerts.png" width="45%" />
 </p>
 
